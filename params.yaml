@@ -1,0 +1,4 @@
+# Available resources
+resources:
+  spark_num_cores: 32
+  spark_ram_size: 128
